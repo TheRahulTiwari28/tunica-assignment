@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "ID": "1",
+      "Name": "Rahul",
+      "Age": "19",
+      "School": "Saraswati",
+      "Class": "10",
+      "Division": "A",
+      "Status": "Active"
+    },
+    {
+      "id": 2,
+      "ID": "1",
+      "Name": "Rahul",
+      "Age": "19",
+      "School": "Saraswati",
+      "Class": "10",
+      "Division": "A",
+      "Status": "Active"
+    },
+    {
+      "id": 3,
+      "ID": "1",
+      "Name": "Rahul",
+      "Age": "19",
+      "School": "Saraswati",
+      "Class": "10",
+      "Division": "A",
+      "Status": "Active"
+    },
+    {
+      "id": 4,
+      "ID": "1",
+      "Name": "Rahul",
+      "Age": "19",
+      "School": "Saraswati",
+      "Class": "10",
+      "Division": "A",
+      "Status": "Active"
+    },
+    {
+      "id": 5,
+      "ID": "1",
+      "Name": "Rahul",
+      "Age": "19",
+      "School": "Saraswati",
+      "Class": "10",
+      "Division": "A",
+      "Status": "Active"
+    }
+  ]
+  

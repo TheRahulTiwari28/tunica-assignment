@@ -1,0 +1,37 @@
+.addstudent{
+    justify-content: space-between;
+    text-align: center;
+    width: 81.5%;
+    height: 100%;
+    background: rgba(236, 233, 233, 0.561);
+    float: right;
+    padding: 20px;
+}
+
+.addstudent .add{
+    width: 50%;
+    height: 100%;
+}
+
+.addstudent .add form {
+    display: flex;
+    flex-direction: column;
+}
+
+.addstudent .add form label{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.addstudent .add form label input{
+    font-size: 16px;
+    padding: 2px;
+    width: 80%;
+}
+
+.addstudent .add form button{
+    width: 80px;
+    padding: 10px;
+    margin-top: 20px;
+}
