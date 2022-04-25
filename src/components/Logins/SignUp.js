@@ -20,7 +20,7 @@ const SignUp = () => {
         }
     }
     return (
-        <div className='signup'>
+        <div className='body-1'>
             <div className='signup-box'>
                 <h1>SignUp Now</h1>
                 <form action='' onSubmit={formsubmit}>
@@ -42,11 +42,12 @@ const SignUp = () => {
                         value={confirmpassword}
                         onChange={(e) => setConfirmpassword(e.target.value)}
                     />
+                    <div class="check">
+                        <input type="checkbox"/> 
+                        <label>I agree to the Terms Of Services</label>
+                    </div>    
                     <input type="submit" value="Sign Up"/>
                 </form>
-                {/* <p>By Clicking the sign up button, you agree to our <br/>
-                    <a href="#">Terms and Condition</a> and <a href="#">Policy Privacy</a>
-                </p> */}
                 <p class="para-2">Already have an account? <a href="/signin">Login Here</a></p>
             </div>
         </div>
