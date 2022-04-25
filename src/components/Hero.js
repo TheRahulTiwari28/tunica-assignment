@@ -62,7 +62,7 @@ const Hero = () => {
                                 <input type="text" name='Status' required="required" placeholder="Status" onChange={handleAddFormChange}/> 
                                 <button type='submit'>Add</button>
                             </form> 
-                            <div className='details'>
+                            {/* <div className='details'>
                                 <div className='recentOder'>
                                     <table>
                                         <thead>
@@ -74,7 +74,6 @@ const Hero = () => {
                                             <td>Class</td>
                                             <td>Division</td>
                                             <td>Status</td>
-                                            {/* <td>Edit</td> */}
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -91,8 +90,8 @@ const Hero = () => {
                                         ))}
                                         </tbody>
                                     </table>
-                                </div>
-                            </div>
+                                </div> */}
+                            {/* </div> */}
                         </div>
                         </div>
                     </div>
