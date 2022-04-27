@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './Studentad.css'
 import { nanoid } from "nanoid";
 import data from '../mock-data.json';
-import Hero from './Hero';
+// import Hero from './Hero';
 
 const StudentAdd = ({
     handleAddFormChange
